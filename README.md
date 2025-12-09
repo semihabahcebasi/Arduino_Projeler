@@ -16,7 +16,7 @@ Buradaki amaç; parça parça öğrendiğim donanım bileşenlerini (LCD, Keypad
 
 
 
-Projelerin kaynak kodlarına ve (varsa) proje raporlarına/şemalarına aşağıdaki tablodan ulaşabilirsiniz:
+Projelerin kaynak kodlarına ve proje raporlarına/şemalarına aşağıdaki tablodan ulaşabilirsiniz:
 
 
 
